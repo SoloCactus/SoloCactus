@@ -23,6 +23,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/https://buymeacoffee.com/howtoai"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://buymeacoffee.com/howtoai" /></a></p><br><br>
+<br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=solocactus&show_icons=true&locale=en&layout=compact" alt="solocactus" /></p>
 
