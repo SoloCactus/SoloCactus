@@ -1,3 +1,9 @@
+<style>
+ body{
+ background-color:#0000;
+ }
+</style>
+
 <h1 align="center">Hi 👋, I'm Mohammad Hamza</h1>
 <h3 align="center">A Proud Muslim Coder and AI Expert from India</h3>
 
